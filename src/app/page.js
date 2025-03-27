@@ -66,7 +66,6 @@ export default function Home() {
       <CategorySection />
       <div>
         <Head>
-        <title>Best Retail Price Comparison App | Compare Store Prices & Save</title>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "WebSite",
@@ -80,7 +79,6 @@ export default function Home() {
           }
         })}} />
         </Head>
-        <meta name="description" content="Find the best deals with our retail price comparison app. Compare store prices instantly and save big on shopping!"></meta>
         <meta name="google-site-verification" content="_fEr-3GQQFGo3onCTLErvpP-jjZz7ewAUQ3LWVh9znE" />
         <Banner />
         <h1>Compare Retail Prices & Save More</h1>

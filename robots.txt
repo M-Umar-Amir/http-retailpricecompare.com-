@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://m-umar-amir.github.io/http-retailpricecompare.com-/sitemap.xml 
+Sitemap: http://retailpricecompare.com/sitemap.xml   
