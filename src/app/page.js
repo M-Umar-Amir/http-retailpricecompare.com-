@@ -81,6 +81,7 @@ export default function Home() {
         })}} />
         </Head>
         <meta name="description" content="Find the best deals with our retail price comparison app. Compare store prices instantly and save big on shopping!"></meta>
+        <meta name="google-site-verification" content="_fEr-3GQQFGo3onCTLErvpP-jjZz7ewAUQ3LWVh9znE" />
         <Banner />
         <h1>Compare Retail Prices & Save More</h1>
         <BestSeller products={data?.products || []} /> {/* Pass products to BestSeller */}

@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://glorious-guide-j6v7jvq7q57cqj5x-3000.app.github.dev/
+
+# Sitemaps
+Sitemap: https://glorious-guide-j6v7jvq7q57cqj5x-3000.app.github.dev/sitemap.xml
