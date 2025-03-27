@@ -1,18 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: "export",
   images: {
-    domains: [
-      "cdn.shopify.com",
-      "media.naheed.pk",
-      "www.theskinfit.com",
-      "media.highfy.pk",
-      "bagallery.com",
-      "imagedelivery.net",
-      "highfy.pk",
-      "www.makeupcityshop.com"
-    ]
+    unoptimized: true, // Required for GitHub Pages
   },
-  trailingSlash: true,  // Ensures GitHub Pages works correctly     // Exports static HTML for deployment
 };
 
-module.exports = nextConfig;
+export default nextConfig;
